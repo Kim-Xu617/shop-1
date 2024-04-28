@@ -1,6 +1,0 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/Kim-Xu617/client
-[submodule "api"]
-	path = api
-	url = https://github.com/Kim-Xu617/api
